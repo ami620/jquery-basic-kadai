@@ -16,7 +16,7 @@ $(function() {
 });
 
 $(function() {
-  $('fade-out').on('click', function(){
+  $('#fade-out').on('click', function(){
     $('#target').fadeOut();
   });
 });
